@@ -13,7 +13,7 @@ SpiderSort and SpiderData are both freeware programs. They always have been, and
 I have done this for a very insidious reason: I want every OS builder to enfold these same indexing and file-handling capabilities INTO their software natively so people don't have to keep downing MY stuff.
 I wrote these BECAUSE they were sorely needed, they should already have been there since the 20th Century, and it's dumb that they're not.
 So here is the SpiderSort Utility.
-It will sort and organize the contents of ALL drives and directories physically (not remotely)attached to your computer.
+It will sort and organize the contents of ALL drives and directories physically (not remotely. This is so SysAdmins won't blacklist it from running on local machines on the LAN/WAN)attached to your computer.
 It will NOT sort or modify in any way any directories marked as "system," "protected," or otherwise marked as sensitive.
 It can find and either sort seperately or delete entirely duplicate files over and/or under a certain size, with or without certain attributes, or made/modified within certain date ranges, or any or all or any combination of these.
 It can operate with administrator rights once the user has scored highly on a small, easy quiz included in the software to unlock, "HaX0R M0De." This mode expands the capabilities of the software in the world's first, "Quiz-Upgradable License,"
